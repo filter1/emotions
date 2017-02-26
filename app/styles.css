@@ -1,0 +1,12 @@
+body {
+	font-family: 'Work Sans', sans-serif;
+}
+
+/*#face_video_canvas, #face_video {
+	display: none !important;
+}*/
+
+#affdex_elements, #face_video {
+	width: 340px;
+	height: 240px;
+}
